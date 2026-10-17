@@ -89,7 +89,7 @@ locadora-veiculos-powerbi/
 │   ├── 03-previsao-vendas.png
 │   └── 04-consultas-medalhao.png
 └── powerbi/
-    └── dashboard_analytic_locadora_carros
+    └── dashboard_analytic_locadora_carros.pbix
 ```
 
 ## ▶️ Como explorar o projeto

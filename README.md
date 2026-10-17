@@ -83,19 +83,13 @@ locadora-veiculos-powerbi/
 ├── dados/
 │   ├── CLIENTES.xlsx
 │   ├── LOCACOES_VEICULOS.xlsx
-│   └── README.md
 ├── imagens/
 │   ├── 01-controle-locacoes.png
 │   ├── 02-controle-clientes.png
 │   ├── 03-previsao-vendas.png
 │   └── 04-consultas-medalhao.png
-├── docs/
-│   ├── DICIONARIO_DADOS.md
-│   ├── PROCESSAMENTO_E_JOINS.md
-│   ├── INDICADORES_E_VALIDACAO.md
-│   └── PUBLICACAO_GITHUB.md
 └── powerbi/
-    └── README.md
+    └── dashboard_analytic_locadora_carros
 ```
 
 ## ▶️ Como explorar o projeto
@@ -108,10 +102,3 @@ locadora-veiculos-powerbi/
 ## 🧠 Aprendizados
 
 A construção de gráficos é apenas uma das etapas de um projeto de BI. É necessário entender a origem dos dados, investigar registros sem correspondência e verificar se as medidas estão contando **linhas, entidades únicas ou valores monetários** conforme a pergunta de negócio.
-
-## ℹ️ Transparência
-
-- **Dados fictícios:** os registros e valores são destinados a estudo e demonstração.
-- **Sem arquivo PBIX neste pacote:** os códigos M, medidas DAX e relações do modelo não foram exportados; nenhum desses elementos foi reconstruído artificialmente.
-- **Imagens:** as capturas representam versões compartilhadas do relatório; a tela de clientes é a revisão mais recente enviada.
-- **Licença:** nenhuma licença de reutilização foi concedida automaticamente aos dados ou ao projeto.
